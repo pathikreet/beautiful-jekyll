@@ -8,6 +8,8 @@
 # Name of website
 title: Pathikreet Dutta
 
+description: Oracle Cloud Architect | Cloud Native Consultant | Oracle Certified | Azure Certified | DevOps Engineer | Emerging Technology Enthusiast
+
 # Your name to show in the footer
 author: Pathikreet Dutta
 
@@ -18,7 +20,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://github.com/pathikreet"
 
 # --- Logo --- #
 
@@ -45,7 +47,7 @@ social-network-links:
   twitter: pathikreet
   patreon: 
   youtube: 
-  medium: https://pathikreet-dutta.medium.com/
+  medium: pathikreet-dutta
 #  reddit: yourname
   linkedin: pathikreet-dutta
 #  xing: yourname
@@ -193,7 +195,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "India/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
